@@ -1,19 +1,25 @@
 
-# 📖 Educations
-- *2019.06 - 2022.04*, Master, Zhejiang University, Hangzhou.
-- *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
-- *2012.09 - 2015.06*, Luqiao Middle School, Taizhou.
+# 💻 Academic Part-time
+- *2025.06 -*, 中国财富管理50人论坛青年研究员
+- *2025.10 -*, 国际期刊*Economics and Data Science*青年编委
 
-# 💬 Invited Talks
-- *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
-- *2021.06*, Audio & Speech Synthesis, Huawei internal talk
-- *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
-- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk
 
-# 💻 Internships
-- *2021.06 - 2021.09*, Alibaba, Hangzhou.
-- *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
-- *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou.
-- *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
-- *2018.01 - 2018.06*, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), Hangzhou.
-- *2017.08 - 2018.12*, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou.
+# 🎖 Honors and Awards
+- *2025.07*, 中国金融学青年优秀论文（**全国共十篇，收录于《中国金融学年鉴2025》**） 
+- *2022.12*, 中国财政杂志社“财务理论前沿学术研讨会”优秀论文一等奖（**共两篇**）
+- *2025.10*, 第九届“策论中国”财经类二等奖 
+- *2019.12/2020.12*, 国家奖学金（**两年，0.2%**）
+- *2021.07*,北京市优秀毕业生（**5%**） 
+
+# 💬 Conference Presentations
+- *2022.07*,中国会计学会2022学术年会，中国会计学会会计教育分会
+- *2022.08*,第五届金融科技·创新与风险管理学术会议，天津大学
+- *2022.10*,首届数智会计研究论坛，中国人民大学
+- *2022.11*,首届中国管理前沿学术论坛，清华大学
+- *2022.12*,财务理论前沿学术研讨会，中国人民大学（**获优秀论文一等奖，共两篇**）
+- *2023.04*,中国金融论坛·第十三届《金融研究》论坛，中山大学
+- *2023.09*,第二十一届中国青年经济学者论坛，中国社会科学院大学
+- *2023.11*,中国世界经济学会年会2023年中青年论坛，复旦大学
+- *2023.11*,第十二届宏观经济政策与微观企业行为学术研讨会，北京大学
+- *2023.11*,第五届中国青年管理学者论坛•工商管理论坛，首都经济贸易大学
+- *2024.09*,2024 Conference on Financial Regulation and Development，Journal of Accounting Literature，湖南大学 
