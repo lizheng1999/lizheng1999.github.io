@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
-description              : "Focusing on video and speech large generation model."
-repository               : "rayeren/rayeren.github.io"
+title                    : "Zheng Li(李峥)"
+description              : 
+repository               : "lizheng1999/lizheng1999.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
-  avatar           : "images/ry_profile.jpeg"
+  name             : "Zheng Li (李峥)"
+  avatar           : "images/lizheng.jpg"
   bio              : ""
-  location         : "Singapore"
+  location         : "Beijing"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=pHcF1g8AAAAJ&view_op=list_works&gmla=APjjwubz26urCoj-FL_cISZ4dH5-DFkYcGcZMW1DjJjt91A2qjP8nHRHLdHsYNezZoyj3LpNnFilMGYT1IDjcVR-5bq-vdVV8-fhMQbbitM"
+  email            : "lzz2021@email.cufe.edu.cn"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -37,23 +37,23 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "lizheng1999"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         :
+  dblp             :
+  orcid            : "https://orcid.org/0009-0008-1141-9401"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
   vine             :
-  weibo            :
+  rednote          : "https://xhslink.com/m/14WQFArbYMj"
   xing             :
   youtube          :
   wikipedia        :
